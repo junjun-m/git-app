@@ -1,3 +1,3 @@
 class PostsController < ApplicationController
-  def index
+  def index１
 end
